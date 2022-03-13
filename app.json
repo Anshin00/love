@@ -11,7 +11,7 @@
       "bot"
     ],
     "website": "www.spk.com",
-    "repository": "https://github.com/Anshin00/LuciferMoringstar-Robot",
+    "repository": "https://github.com/Anshin00/love",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
