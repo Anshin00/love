@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/Anshin00/LuciferMoringstar-Robot">
+<a href="https://heroku.com/deploy?template=https://github.com/Anshin00/love">
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
 
